@@ -1,4 +1,4 @@
-# nightking
+# MyResumeProject
 
 ## within this repository, contains a resume i created using a free bootstrap resume template
 
